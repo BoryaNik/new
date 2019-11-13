@@ -1,4 +1,4 @@
-package ru.progwards.new1;
+package ru.progwards.new1.java1.lessons.helloworld;
 
 public class Task1 {
     public static void main(String[] args){
